@@ -943,9 +943,11 @@ section,
 .services .service-item .description {
   line-height: 24px;
   font-size: 14px;
-  text-align: justify;
 }
 
+.service-para{
+  text-align: justify;
+}
 /*--------------------------------------------------------------
 # Testimonials Section
 --------------------------------------------------------------*/
